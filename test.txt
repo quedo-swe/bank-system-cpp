@@ -1,0 +1,7 @@
+ACCOUNTS
+vadym 700
+nazar 1700
+TRANSACTIONS
+vadym deposit 500
+vadym withdraw 900
+vadym withdraw 300
